@@ -1,0 +1,5 @@
+module(
+    name = "test_interface_files",
+    version = "humble",
+    compatibility_level = 1,
+)

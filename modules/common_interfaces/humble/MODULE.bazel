@@ -1,0 +1,5 @@
+module(
+    name = "common_interfaces",
+    version = "humble",
+    compatibility_level = 1,
+)

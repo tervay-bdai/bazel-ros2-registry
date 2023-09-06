@@ -1,0 +1,5 @@
+module(
+    name = "unique_identifier_msgs",
+    version = "humble",
+    compatibility_level = 1,
+)

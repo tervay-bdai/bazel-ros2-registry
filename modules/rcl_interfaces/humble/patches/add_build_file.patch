@@ -1,0 +1,11 @@
+--- /dev/null
++++ BUILD.bazel
+@@ -0,0 +1,8 @@
++package(default_visibility = ["//visibility:public"])
++
++ros2_interface_library(
++    name = 'rcl_interfaces_msgs',
++    rule_suffix = ['rcl_interfaces/msg/Parameter.msg', 'statistics_msgs/msg/MetricsMessage.msg', 'rcl_interfaces/msg/ListParametersResult.msg', 'rcl_interfaces/msg/ParameterEventDescriptors.msg', 'test_msgs/msg/Builtins.msg', 'rcl_interfaces/msg/FloatingPointRange.msg', 'rcl_interfaces/msg/SetParametersResult.msg', 'lifecycle_msgs/msg/Transition.msg', 'action_msgs/msg/GoalInfo.msg', 'action_msgs/msg/GoalStatusArray.msg', 'lifecycle_msgs/msg/TransitionEvent.msg', 'rcl_interfaces/msg/ParameterDescriptor.msg', 'builtin_interfaces/msg/Duration.msg', 'statistics_msgs/msg/StatisticDataType.msg', 'action_msgs/msg/GoalStatus.msg', 'rcl_interfaces/msg/Log.msg', 'rcl_interfaces/msg/ParameterType.msg', 'rcl_interfaces/msg/IntegerRange.msg', 'rcl_interfaces/msg/ParameterValue.msg', 'rosgraph_msgs/msg/Clock.msg', 'rcl_interfaces/msg/ParameterEvent.msg', 'statistics_msgs/msg/StatisticDataPoint.msg', 'lifecycle_msgs/msg/State.msg', 'builtin_interfaces/msg/Time.msg', 'lifecycle_msgs/msg/TransitionDescription.msg'],
++    deps = ['@test_interface_files//:test_interface_files_msgs', '@unique_identifier_msgs//:unique_identifier_msgs_msgs'],
++)
++
