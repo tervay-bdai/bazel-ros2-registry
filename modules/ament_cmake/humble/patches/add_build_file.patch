@@ -5,7 +5,7 @@
 +
 +cc_library(
 +    name = 'ament_cmake_cc',
-+    rule_suffix = ['ament_cmake_vendor_package/test/depender/src/depender.c', 'ament_cmake_vendor_package/test/exlib_bad/src/exlib.c', 'ament_cmake_vendor_package/test/exlib_good/src/exlib.c'],
++    rule_suffix = ['ament_cmake_vendor_package/test/exlib_bad/src/exlib.c', 'ament_cmake_vendor_package/test/depender/src/depender.c', 'ament_cmake_vendor_package/test/exlib_good/src/exlib.c'],
 +    deps = [],
 +)
 +

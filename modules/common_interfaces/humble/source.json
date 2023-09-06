@@ -3,7 +3,7 @@
     "integrity": "sha256-bc0tGpN0MLWOl9B/D48EYhFRiA2pWHqLGn0SDlhL6DU=",
     "strip_prefix": "common_interfaces",
     "patches": {
-        "add_build_file.patch": "sha256-JcHy8qRCPzRdlfj6loyy6daV1LctIFuYXqQr09HkIt8="
+        "add_build_file.patch": "sha256-sC6mszfPgopLkF4HW1ME20rtcXuHk1TvdjxszY0u54o="
     },
     "patch_strip": 0
 }

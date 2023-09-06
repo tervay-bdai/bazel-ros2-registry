@@ -3,7 +3,7 @@
     "integrity": "sha256-nQbGHvy1reO2PwoGZ/7NPG/0COzqowUMqmJbLVpORRs=",
     "strip_prefix": "ament_cmake",
     "patches": {
-        "add_build_file.patch": "sha256-Y5LJT+oFAoXEHrsZn2Q55h3d+jRpA/qtuCLGM/3zm/s="
+        "add_build_file.patch": "sha256-V61nOqSmrFE7nlL2PnGehc1bVOvOCkXXI8eHaN5adwQ="
     },
     "patch_strip": 0
 }

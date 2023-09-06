@@ -3,3 +3,5 @@ module(
     version = "humble",
     compatibility_level = 1,
 )
+bazel_dep(name = "unique_identifier_msgs", version = "humble")
+bazel_dep(name = "test_interface_files", version = "humble")

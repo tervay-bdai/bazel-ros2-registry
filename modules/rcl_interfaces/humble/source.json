@@ -3,7 +3,7 @@
     "integrity": "sha256-IMsbmZaZCGJA6kCn+dXzVD+KmIjaqf6l5yBuMkMPIQw=",
     "strip_prefix": "rcl_interfaces",
     "patches": {
-        "add_build_file.patch": "sha256-KepK08WNh1qz4fcQniRCHyIlcQcVIX1PBeDuh9E3feU="
+        "add_build_file.patch": "sha256-jx92Zi0oNXnOvDu51SMoV38ncL6CL4YxEOQiFeRTqls="
     },
     "patch_strip": 0
 }

@@ -3,7 +3,7 @@
     "integrity": "sha256-4UhRWuikHACnUpeWJ4ki/+oaxo604QNJMKJ9/JcEUfk=",
     "strip_prefix": "test_interface_files",
     "patches": {
-        "add_build_file.patch": "sha256-KyMsnSK+z3YwZL0eCMwKzpk6Q7BpECgNwG1ENvBW1og="
+        "add_build_file.patch": "sha256-AqhC7bWG1cASQ1CqJdKSUEYcc8WlEzfvuu7bwMXVxCM="
     },
     "patch_strip": 0
 }

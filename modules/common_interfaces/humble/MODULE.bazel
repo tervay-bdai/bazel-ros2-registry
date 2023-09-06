@@ -3,3 +3,11 @@ module(
     version = "humble",
     compatibility_level = 1,
 )
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
+bazel_dep(name = "rcl_interfaces", version = "humble")
