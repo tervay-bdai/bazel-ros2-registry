@@ -1,9 +1,9 @@
 {
     "url": "https://github.com/ament/ament_cmake/archive/refs/heads/humble.zip",
     "integrity": "sha256-nQbGHvy1reO2PwoGZ/7NPG/0COzqowUMqmJbLVpORRs=",
-    "strip_prefix": "ament_cmake_humble",
+    "strip_prefix": "ament_cmake-humble",
     "patches": {
-        "add_build_file.patch": "sha256-zldS2gXok0uw3WuH6iKZqa2gfZlCJKyEgvAhxQjG10g="
+        "add_build_file.patch": "sha256-Y8dzRG4Io2FCXhZHLMgCXZazbkXVDmkYWMuJbDFAxbk="
     },
     "patch_strip": 0
 }

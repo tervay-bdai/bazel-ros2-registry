@@ -5,6 +5,6 @@
 +
 +ros2_interface_library(
 +    name = 'test_interface_files_msgs',
-+    rule_suffix = ['msg/MultiNested.msg', 'msg/WStrings.msg', 'msg/BasicTypes.msg', 'msg/Constants.msg', 'msg/UnboundedSequences.msg', 'msg/Strings.msg', 'msg/Empty.msg', 'msg/Nested.msg', 'msg/Defaults.msg', 'msg/Arrays.msg', 'msg/BoundedPlainSequences.msg', 'msg/BoundedSequences.msg'],
++    rule_suffix = ['msg/Nested.msg', 'msg/Arrays.msg', 'msg/BoundedSequences.msg', 'msg/MultiNested.msg', 'msg/Empty.msg', 'msg/WStrings.msg', 'msg/BasicTypes.msg', 'msg/UnboundedSequences.msg', 'msg/Constants.msg', 'msg/BoundedPlainSequences.msg', 'msg/Strings.msg', 'msg/Defaults.msg'],
 +)
 +

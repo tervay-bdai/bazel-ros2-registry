@@ -1,9 +1,9 @@
 {
     "url": "https://github.com/ros2/rcl_interfaces/archive/refs/heads/humble.zip",
     "integrity": "sha256-IMsbmZaZCGJA6kCn+dXzVD+KmIjaqf6l5yBuMkMPIQw=",
-    "strip_prefix": "rcl_interfaces_humble",
+    "strip_prefix": "rcl_interfaces-humble",
     "patches": {
-        "add_build_file.patch": "sha256-rTnzx15+lHTATG2P3nXgxBRSGTO0OOyT3FeRN08dhrg="
+        "add_build_file.patch": "sha256-ZFMLQFdQfaRO/o08VkxRasZ0o/pxAzUIL+Xmvt4O/F4="
     },
     "patch_strip": 0
 }
